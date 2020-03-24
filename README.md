@@ -1,4 +1,4 @@
-# Statistical characteristics of Harp receptors
+# Trx Statistical characteristics of HARP receptors
 *Xue-Jian Jiang*, *Taishi Nammoto*, *Izumi Mizuno*
 
 
