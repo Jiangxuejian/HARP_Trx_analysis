@@ -16,3 +16,10 @@ See [harp_trx.ipynb](harp_trx.ipynb) for more details
 ## 3. Each receptor's TRX vs. UTdate, color coded by frequencies.
 ![5](images/Trx_utdate_LSB.png)
 ![6](images/Trx_utdate_USB.png)
+
+
+## 4. Each receptor's TRX vs. UTdate (as of 20190401), color coded by frequencies. The arrows indicate 20191121 when the mixers of H04 and H13 were upgraded.
+
+![5](images/Trx_utdate2_LSB.png)
+![6](images/Trx_utdate2_USB.png)
+
