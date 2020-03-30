@@ -5,7 +5,7 @@ Below shows several sets of receiver temperature plots:
 
 <pre><b>
 1. Trx medians of HARP receptors
-2. Trx vs. freq
+2. Trx vs. rf frequencies
 3. Trx vs. date (2015 - 2020)
 4. Trx vs. date (20190401 - 2020)
 </b></pre>
